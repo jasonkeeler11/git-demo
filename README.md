@@ -2,10 +2,8 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-a;ljfads;ljds
-fda;lfdsfa;sl
-fdsa;nfd;lfj
-a;dslfj
-adf;lkfdsa;
+1
+2
+3
